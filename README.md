@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="../public/favicon.ico"></img>
+  <img src="./public/favicon.ico"></img>
 </div>
 
 <h1 align="center">Interval randomizer</h1>
