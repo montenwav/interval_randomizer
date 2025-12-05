@@ -11,5 +11,5 @@ npm install
 npm run dev
 ```
 
-##Contribution
-Open to any kind of contributors
+## Contribution
+Open to any kind of contributions
