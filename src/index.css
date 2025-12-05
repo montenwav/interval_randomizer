@@ -51,8 +51,8 @@ body {
   margin-top: 16px;
   margin-right: 16px;
   padding-left: 10px; 
+  height: 85vh;
   width: 150px;
-  height: 80vh;
   overflow: hidden;
   overflow-y: scroll;
 }
@@ -63,4 +63,22 @@ body {
 
 .disabledbtn {
   color: #3b3b3b
+}
+
+@media (max-width: 768px) {
+  .main {
+    flex-direction: column;
+  }
+
+  .randomizer { 
+    height: 40vh;
+  }
+
+  .history_container {
+    margin-left: 16px;
+  }
+  .history {
+    height: 45vh;
+    width: 95%;
+  }
 }
